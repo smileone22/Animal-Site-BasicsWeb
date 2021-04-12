@@ -1,0 +1,13 @@
+h1 {
+    background-color: darkslateblue;
+    color: IndianRed;
+    font-family: Georgia, serif;
+    text-align: center;
+    font-size: 90px;
+}
+
+p {
+    font-family: Georgia, serif;
+    font-size: 50px;
+    padding: .5em .5em;
+}
